@@ -4,6 +4,10 @@
 
 [🚀 Launch the Live Demo](https://profit-intelligence-engine-jf5ufd3ezkdtotarikappmy.streamlit.app/)
 
+## Dashboard Preview
+
+![Profit Intelligence Engine Dashboard](screenshots/dashboard-preview.png)
+
 A Python and Streamlit portfolio project that converts current inventory and YTD sales velocity into management-ready working-capital signals.
 
 > **Portfolio edition:** This repository uses 100% synthetic data. It contains no employer, customer, pricing, inventory, or proprietary sales records.
