@@ -4,6 +4,12 @@ A Python-based inventory and working-capital intelligence platform that turns op
 
 > **Portfolio edition:** this repository uses 100% synthetic data. It contains no employer, customer, inventory, pricing, or sales records.
 
+## 🚀 Live Demo
+
+[Launch the Profit Intelligence Engine](https://profit-intelligence-engine-jf5ufd3ezkdtotarikappmy.streamlit.app/)
+
+**Live Demo:** [profit-intelligence-engine.streamlit.app](https://profit-intelligence-engine-jf5ufd3ezkdtotarikappmy.streamlit.app/)
+
 ## Why I built it
 
 Equipment dealerships can hold millions of dollars in inventory while sales velocity varies dramatically by model, brand, and location. Raw ERP exports show what is in stock and what sold, but they do not automatically answer:
